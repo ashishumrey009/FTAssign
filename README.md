@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Project to show the activity of the person using react timeline and react modal library
+###  Demo
+https://tender-sinoussi-9c6612.netlify.app
 ## Available Scripts
 
 In the project directory, you can run:
