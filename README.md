@@ -3,7 +3,7 @@ Project to show the activity of the person using react timeline and react modal 
 ###  Demo
 https://tender-sinoussi-9c6612.netlify.app
 
-### setps
+### steps
 First Page show the name of Person and his id ,time zone<br />
 By defualt the time zone in IST,if user in different time zone it will convert into IST and show accordingly<br />
 on clicking on the row it will a modal with month wise period of activity<br />
